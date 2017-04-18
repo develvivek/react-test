@@ -1,0 +1,39 @@
+{
+  "name": "tvshows",
+  "version": "1.0.0",
+  "description": "react / react-dnd",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --dev ",
+    "dev": "webpack -d --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develvivek/react-test.git"
+  },
+  "author": "Vivek C",
+  "license": "ISC",
+  "homepage": "https://github.com/develvivek/react-test/blob/master/README.md",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^3.3.7",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.30.8",
+    "react-dnd": "^2.3.0",
+    "react-dnd-html5-backend": "^2.3.0",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.4.2"
+  }
+}
